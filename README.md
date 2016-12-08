@@ -8,3 +8,5 @@ Note:
  - For more information: https://goo.gl/forms/ilgWNPNH3ddgrPet2
 
 Happy coding!
+
+Note: To be updated soon.
